@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "e9eb1d2f03fa2bad",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc28489cc8432d24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2a6a3152e95c9bc",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Table of Content.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Table of Content"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b07117ce0d991b46",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8b92797f7c88558",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dde09f6dc6e4e42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e5024b5a7a921d67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0f19152017b83c2b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7d17bc618042367",
+    "type": "split",
+    "children": [
+      {
+        "id": "21fccb97368a0bcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "886edc16fb2d103e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. JavaScript Fundamentals/14. Functions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 14. Functions"
+            }
+          },
+          {
+            "id": "c2d33338e4921085",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. JavaScript Fundamentals/14. Functions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 14. Functions"
+            }
+          },
+          {
+            "id": "b299f77a28dc0291",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "53ac45aee1510cf1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9c349decca89f7d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. JavaScript Fundamentals/14. Functions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 14. Functions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c2a6a3152e95c9bc",
+  "lastOpenFiles": [
+    "Section 6. Page Object Model/45. What is Page Objects.md",
+    "Section 6. Page Object Model/46. First Page Object.md",
+    "Section 6. Page Object Model/47. Navigation Page Object.md",
+    "Section 6. Page Object Model/48. Locators in Page Objects.md",
+    "Section 6. Page Object Model/49. Parametrized Methods.md",
+    "Section 6. Page Object Model/50. Date Picker Page Object.md",
+    "Section 6. Page Object Model/51. Page Objects Manager.md",
+    "Section 6. Page Object Model/52. Page Objects Helper Base.md",
+    "Images/Section 6. Page Object Model/52. Page Objects Helper Base.png",
+    "Images/Section 6. Page Object Model",
+    "Section 6. Page Object Model",
+    "Section 5. UI Components/33. Input Fields.md",
+    "Section 5. UI Components/34. Radio Buttons.md",
+    "Section 5. UI Components/35. Checkboxes.md",
+    "Section 5. UI Components/36. Lists and Dropdowns.md",
+    "Section 5. UI Components/37. Tooltips.md",
+    "Section 5. UI Components/38. Dialog Boxes.md",
+    "Section 5. UI Components/39. Web Tables (Part 1).md",
+    "Section 5. UI Components/40. Web Tables (Part 2).md",
+    "Section 5. UI Components/41. Date Picker (Part 1).md",
+    "Section 5. UI Components/42. Date Picker (Part 2).md",
+    "Section 5. UI Components/43. Sliders.md",
+    "Section 5. UI Components/44. Drag & Drop with iFrames.md",
+    "Projects/2. Login Flow Test Suite.md",
+    "Projects/1. E-Commerce Product Page Validator.md",
+    "Section 3. Playwright Hands-On Overview/20. Trace View and Debug.md",
+    "Section 3. Playwright Hands-On Overview/19. Test Execution with UI.md",
+    "Section 3. Playwright Hands-On Overview/18. Test Execution with CLI.md",
+    "Projects",
+    "Table of Content.base",
+    "Section 5. UI Components",
+    "Images/4. Interaction with Web Elements/32. Timeouts.png",
+    "Images/4. Interaction with Web Elements",
+    "Images",
+    "Section 4. Interaction with Web Elements",
+    "Section 3. Playwright Hands-On Overview",
+    "Untitled.canvas",
+    "Section 2. JavaScript Fundamentals"
+  ]
+}
