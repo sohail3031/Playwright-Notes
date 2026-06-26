@@ -8,19 +8,119 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2a6a3152e95c9bc",
+            "id": "132f2c04ebff0f28",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Table of Content.base",
-                "viewName": "Table"
+                "file": "Section 7. Working with APIs/53. What is API.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Table of Content"
+              "icon": "lucide-file",
+              "title": "53. What is API"
+            }
+          },
+          {
+            "id": "1fb3894c382ded89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 7. Working with APIs/54. Setup New Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "54. Setup New Project"
+            }
+          },
+          {
+            "id": "606fccc6e56cdb81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 7. Working with APIs/55. Mocking API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "55. Mocking API"
+            }
+          },
+          {
+            "id": "67098a80664002af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 7. Working with APIs/56. Modify API Response.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "56. Modify API Response"
+            }
+          },
+          {
+            "id": "eaa65989c465bafe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 7. Working with APIs/57. Perform API Request.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "57. Perform API Request"
+            }
+          },
+          {
+            "id": "061103548acee581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 7. Working with APIs/58. Intercept Browser API Response.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "58. Intercept Browser API Response"
+            }
+          },
+          {
+            "id": "0051ecdd4d89d423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 7. Working with APIs/59. Sharing Authentication State.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "59. Sharing Authentication State"
+            }
+          },
+          {
+            "id": "696868287c671675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 7. Working with APIs/60. API Authentication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "60. API Authentication"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,8 +282,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "c2a6a3152e95c9bc",
+  "active": "696868287c671675",
   "lastOpenFiles": [
+    "Section 7. Working with APIs/59. Sharing Authentication State.md",
+    "Section 7. Working with APIs/58. Intercept Browser API Response.md",
+    "Section 7. Working with APIs/57. Perform API Request.md",
+    "Section 7. Working with APIs/56. Modify API Response.md",
+    "Section 7. Working with APIs/55. Mocking API.md",
+    "Section 7. Working with APIs/54. Setup New Project.md",
+    "Section 7. Working with APIs/53. What is API.md",
+    "Section 7. Working with APIs/60. API Authentication.md",
+    "Images/Section 7. Working with APIs/53. What is API-9.png",
+    "Images/Section 7. Working with APIs/53. What is API-8.png",
+    "Images/Section 7. Working with APIs/53. What is API-7.png",
+    "Images/Section 7. Working with APIs/53. What is API-6.png",
+    "Images/Section 7. Working with APIs/53. What is API-5.png",
+    "Images/Section 7. Working with APIs/53. What is API-4.png",
+    "Images/Section 7. Working with APIs/53. What is API-3.png",
+    "Images/Section 7. Working with APIs/53. What is API-1.png",
+    "Images/Section 7. Working with APIs/53. What is API-2.png",
+    "Images/Section 7. Working with APIs",
+    "Section 6. Page Object Model/52. Page Objects Helper Base.md",
+    "Table of Content.base",
+    "Section 7. Working with APIs",
     "Section 6. Page Object Model/45. What is Page Objects.md",
     "Section 6. Page Object Model/46. First Page Object.md",
     "Section 6. Page Object Model/47. Navigation Page Object.md",
@@ -191,7 +312,6 @@
     "Section 6. Page Object Model/49. Parametrized Methods.md",
     "Section 6. Page Object Model/50. Date Picker Page Object.md",
     "Section 6. Page Object Model/51. Page Objects Manager.md",
-    "Section 6. Page Object Model/52. Page Objects Helper Base.md",
     "Images/Section 6. Page Object Model/52. Page Objects Helper Base.png",
     "Images/Section 6. Page Object Model",
     "Section 6. Page Object Model",
@@ -205,22 +325,11 @@
     "Section 5. UI Components/40. Web Tables (Part 2).md",
     "Section 5. UI Components/41. Date Picker (Part 1).md",
     "Section 5. UI Components/42. Date Picker (Part 2).md",
-    "Section 5. UI Components/43. Sliders.md",
-    "Section 5. UI Components/44. Drag & Drop with iFrames.md",
-    "Projects/2. Login Flow Test Suite.md",
-    "Projects/1. E-Commerce Product Page Validator.md",
-    "Section 3. Playwright Hands-On Overview/20. Trace View and Debug.md",
-    "Section 3. Playwright Hands-On Overview/19. Test Execution with UI.md",
-    "Section 3. Playwright Hands-On Overview/18. Test Execution with CLI.md",
     "Projects",
-    "Table of Content.base",
     "Section 5. UI Components",
-    "Images/4. Interaction with Web Elements/32. Timeouts.png",
-    "Images/4. Interaction with Web Elements",
+    "Images/Section 4. Interaction with Web Elements",
     "Images",
     "Section 4. Interaction with Web Elements",
-    "Section 3. Playwright Hands-On Overview",
-    "Untitled.canvas",
-    "Section 2. JavaScript Fundamentals"
+    "Untitled.canvas"
   ]
 }
