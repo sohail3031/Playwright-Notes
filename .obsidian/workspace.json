@@ -8,119 +8,231 @@
         "type": "tabs",
         "children": [
           {
-            "id": "132f2c04ebff0f28",
+            "id": "669da915bcef2a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 7. Working with APIs/53. What is API.md",
+                "file": "Section 8. Advanced/61. NPM Scripts and CLI Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "53. What is API"
+              "title": "61. NPM Scripts and CLI Commands"
             }
           },
           {
-            "id": "1fb3894c382ded89",
+            "id": "f1e6eac679306cea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 7. Working with APIs/54. Setup New Project.md",
+                "file": "Section 8. Advanced/62. Test Data Generator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "54. Setup New Project"
+              "title": "62. Test Data Generator"
             }
           },
           {
-            "id": "606fccc6e56cdb81",
+            "id": "0293228a50e86b77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 7. Working with APIs/55. Mocking API.md",
+                "file": "Section 8. Advanced/63. Test Retries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "55. Mocking API"
+              "title": "63. Test Retries"
             }
           },
           {
-            "id": "67098a80664002af",
+            "id": "f98c8f85d48b1f17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 7. Working with APIs/56. Modify API Response.md",
+                "file": "Section 8. Advanced/64. Parallel Execution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "56. Modify API Response"
+              "title": "64. Parallel Execution"
             }
           },
           {
-            "id": "eaa65989c465bafe",
+            "id": "981e86450b829a2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 7. Working with APIs/57. Perform API Request.md",
+                "file": "Section 8. Advanced/65. Screenshots and Videos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "57. Perform API Request"
+              "title": "65. Screenshots and Videos"
             }
           },
           {
-            "id": "061103548acee581",
+            "id": "adfe82731e276031",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 7. Working with APIs/58. Intercept Browser API Response.md",
+                "file": "Section 8. Advanced/66. Environment Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "58. Intercept Browser API Response"
+              "title": "66. Environment Variables"
             }
           },
           {
-            "id": "0051ecdd4d89d423",
+            "id": "d7106332a384478a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 7. Working with APIs/59. Sharing Authentication State.md",
+                "file": "Section 8. Advanced/67. Configuration File.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "59. Sharing Authentication State"
+              "title": "67. Configuration File"
             }
           },
           {
-            "id": "696868287c671675",
+            "id": "6edd9f5487d79c39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 7. Working with APIs/60. API Authentication.md",
+                "file": "Section 8. Advanced/68. Fixtures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "60. API Authentication"
+              "title": "68. Fixtures"
+            }
+          },
+          {
+            "id": "73fd0a6a7d795ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 8. Advanced/69. Project Setup and Teardown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "69. Project Setup and Teardown"
+            }
+          },
+          {
+            "id": "b1498e0d51b40935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 8. Advanced/70. Global Setup and Teardown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "70. Global Setup and Teardown"
+            }
+          },
+          {
+            "id": "1da4005e44d6e4d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 8. Advanced/71. Test Tags.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "71. Test Tags"
+            }
+          },
+          {
+            "id": "11d00da94eaa3503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 8. Advanced/72. Mobile Device Emulator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "72. Mobile Device Emulator"
+            }
+          },
+          {
+            "id": "c18c62a9bd8857bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 8. Advanced/73. Reporting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "73. Reporting"
+            }
+          },
+          {
+            "id": "6bf5569dc001194e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 8. Advanced/74. Visual Testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "74. Visual Testing"
+            }
+          },
+          {
+            "id": "f8740fae0b2d1b02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 8. Advanced/75. Playwright with Docker Container.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "75. Playwright with Docker Container"
+            }
+          },
+          {
+            "id": "fd436938f96916c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 8. Advanced/76. GitHub Actions and Argos CI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "76. GitHub Actions and Argos CI"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -282,8 +394,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "696868287c671675",
+  "active": "fd436938f96916c6",
   "lastOpenFiles": [
+    "Section 8. Advanced/75. Playwright with Docker Container.md",
+    "Section 8. Advanced/76. GitHub Actions and Argos CI.md",
+    "Section 8. Advanced/74. Visual Testing.md",
+    "Section 8. Advanced/73. Reporting.md",
+    "Section 8. Advanced/72. Mobile Device Emulator.md",
+    "Section 8. Advanced/71. Test Tags.md",
+    "Section 8. Advanced/70. Global Setup and Teardown.md",
+    "Section 8. Advanced/69. Project Setup and Teardown.md",
+    "Section 8. Advanced/68. Fixtures.md",
+    "Section 8. Advanced/67. Configuration File.md",
+    "Section 8. Advanced/66. Environment Variables.md",
+    "Section 8. Advanced/65. Screenshots and Videos.md",
+    "Section 8. Advanced/61. NPM Scripts and CLI Commands.md",
+    "Section 8. Advanced/64. Parallel Execution.md",
+    "Section 8. Advanced/63. Test Retries.md",
+    "Images/Section 8. Advanced/63. Test Retries.png",
+    "Images/Section 8. Advanced",
+    "Section 8. Advanced/62. Test Data Generator.md",
+    "Section 5. UI Components/33. Input Fields.md",
+    "Section 7. Working with APIs/60. API Authentication.md",
     "Section 7. Working with APIs/59. Sharing Authentication State.md",
     "Section 7. Working with APIs/58. Intercept Browser API Response.md",
     "Section 7. Working with APIs/57. Perform API Request.md",
@@ -291,7 +423,7 @@
     "Section 7. Working with APIs/55. Mocking API.md",
     "Section 7. Working with APIs/54. Setup New Project.md",
     "Section 7. Working with APIs/53. What is API.md",
-    "Section 7. Working with APIs/60. API Authentication.md",
+    "Section 8. Advanced",
     "Images/Section 7. Working with APIs/53. What is API-9.png",
     "Images/Section 7. Working with APIs/53. What is API-8.png",
     "Images/Section 7. Working with APIs/53. What is API-7.png",
@@ -305,31 +437,11 @@
     "Section 6. Page Object Model/52. Page Objects Helper Base.md",
     "Table of Content.base",
     "Section 7. Working with APIs",
-    "Section 6. Page Object Model/45. What is Page Objects.md",
-    "Section 6. Page Object Model/46. First Page Object.md",
-    "Section 6. Page Object Model/47. Navigation Page Object.md",
-    "Section 6. Page Object Model/48. Locators in Page Objects.md",
-    "Section 6. Page Object Model/49. Parametrized Methods.md",
-    "Section 6. Page Object Model/50. Date Picker Page Object.md",
-    "Section 6. Page Object Model/51. Page Objects Manager.md",
-    "Images/Section 6. Page Object Model/52. Page Objects Helper Base.png",
     "Images/Section 6. Page Object Model",
     "Section 6. Page Object Model",
-    "Section 5. UI Components/33. Input Fields.md",
-    "Section 5. UI Components/34. Radio Buttons.md",
-    "Section 5. UI Components/35. Checkboxes.md",
-    "Section 5. UI Components/36. Lists and Dropdowns.md",
-    "Section 5. UI Components/37. Tooltips.md",
-    "Section 5. UI Components/38. Dialog Boxes.md",
-    "Section 5. UI Components/39. Web Tables (Part 1).md",
-    "Section 5. UI Components/40. Web Tables (Part 2).md",
-    "Section 5. UI Components/41. Date Picker (Part 1).md",
-    "Section 5. UI Components/42. Date Picker (Part 2).md",
     "Projects",
     "Section 5. UI Components",
     "Images/Section 4. Interaction with Web Elements",
-    "Images",
-    "Section 4. Interaction with Web Elements",
     "Untitled.canvas"
   ]
 }

@@ -1,3 +1,2 @@
-.obsidian/
-Projects/
-Table of Content.base
+*.json
+*.base
