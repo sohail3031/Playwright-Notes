@@ -230,20 +230,6 @@ This repository helps me:
 
 ---
 
-# 👨‍💻 Who Can Use This Repository?
-
-This repository is useful for:
-
-- Beginners learning Playwright
-- QA Engineers
-- Automation Test Engineers
-- SDETs
-- Software Engineers
-- Students preparing for automation testing interviews
-- Anyone looking for structured Playwright notes
-
----
-
 # ⭐ Disclaimer
 
 These notes are based on my personal learning from a Playwright course. They are intended for educational and revision purposes and have been organized in my own words for easier understanding.
