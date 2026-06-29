@@ -247,5 +247,3 @@ This repository is useful for:
 # ⭐ Disclaimer
 
 These notes are based on my personal learning from a Playwright course. They are intended for educational and revision purposes and have been organized in my own words for easier understanding.
-
----
