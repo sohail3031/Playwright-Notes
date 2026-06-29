@@ -1,0 +1,251 @@
+# 🎭 Playwright Automation Testing - Complete Course Notes
+
+> Comprehensive notes, code snippets, concepts, and best practices from a complete **Playwright: From Zero to Hero** course.
+
+---
+
+## 📖 About This Repository
+
+This repository contains my complete learning notes from an in-depth Playwright Automation Testing course.
+
+The purpose of this repository is to serve as:
+
+- 📚 A personal knowledge base
+- 📖 A quick revision guide
+- 💻 A reference while building automation frameworks
+- 🚀 A resource for interview preparation
+- 🧪 A collection of Playwright concepts, examples, and best practices
+
+The notes are organized lesson-by-lesson following the course structure, making it easy to revisit any topic whenever needed.
+
+---
+
+# 🚀 Technologies Covered
+
+- Playwright
+- TypeScript
+- JavaScript
+- Node.js
+- HTML DOM
+- API Testing
+- REST APIs
+- Page Object Model (POM)
+- GitHub Actions
+- Docker
+- Visual Testing
+- CI/CD
+- Argos CI
+
+---
+
+# 📚 Course Contents
+
+## Module 1 — Preparation
+
+- Introduction
+- Playwright vs Cypress
+- Configuration of Development Environment
+- Clone Test Application
+
+---
+
+## Module 2 — JavaScript Fundamentals
+
+- Module Overview
+- Hello World
+- Variables, Constants and Data Types
+- Concatenation and Interpolation
+- Objects and Arrays
+- Relational and Equality Operators
+- Logical Operators
+- Conditional Statements
+- Loops
+- Functions
+- Classes and Methods
+- TypeScript vs JavaScript
+- JavaSceipt Practice Exercise - Car Recommendation System
+
+---
+
+## Module 3 — Playwright Hands-On Overview
+
+- Playwright Installation
+- Test Execution with CLI
+- Test Execution with UI
+- Trace Viewer and Debug
+- Test Structure
+- Hooks and Flow Control
+- Quiz 1 - Knowledge Check
+
+---
+
+## Module 4 — Interaction with Web Elements
+
+- DOM Terminology
+- Locator Syntax Rules
+- User-Facing Locators
+- Child Elements
+- Parent Elements
+- Reusing Locators
+- Extracting Values
+- Assertions
+- Auto-Waiting
+- Timeouts
+- Quiz 2 - Knowledge Check
+
+---
+
+## Module 5 — UI Components
+
+- Input Fields
+- Radio Buttons
+- Checkboxes
+- Lists & Dropdowns
+- Tooltips
+- Dialog Boxes
+- Web Tables (Part 1)
+- Web Tables (Part 2)
+- Date Picker (Part 1)
+- Date Picker (Part 2)
+- Sliders
+- Drag & Drop with iframes
+
+---
+
+## Module 6 — Page Object Model
+
+- What is Page Object Model
+- First Page Object
+- Navigation Page Object
+- Locators in Page Objects
+- Parameterized Methods
+- Date Picker Page Object
+- Page Object Manager
+- Page Object Helper Base
+
+---
+
+## Module 7 — Working with APIs
+
+- What is API
+- Setup New Project
+- Mocking API
+- Modify API Response
+- Perform API Requests
+- Intercept Browser API Responses
+- Sharing Authentication State
+- API Authentication
+
+---
+
+## Module 8 — Advanced
+
+- NPM Scripts and CLI Commands
+- Test Data Generator
+- Test Retries
+- Parallel Execution
+- Screenshots and Videos
+- Environment Variables
+- Configuration File
+- Fixtures
+- Project Setup & Teardown
+- Global Setup & Teardown
+- Test Tags
+- Mobile Device Emulator
+- Reporting
+- Visual Testing
+- Playwright with Docker Container
+- GitHub Actions and Argos CI
+
+---
+
+## Practice Exercises
+
+- JavaScript Practice Exercise — Car Recommendation System
+
+---
+
+## Knowledge Checks
+
+- Quiz 1
+- Quiz 2
+
+---
+
+# 📂 Repository Structure
+
+```
+Playwright-Notes/
+│
+├── 01-Preparation/
+├── 02-JavaScript Fundamentals/
+├── 03-Playwright Hands-On Overview/
+├── 04-Interaction with Web Elements/
+├── 05-UI Components/
+├── 06-Page Object Model/
+├── 07-Working with APIs/
+├── 08-Advanced/
+│
+├── Images
+│
+└── README.md
+```
+
+---
+
+# 🎯 Topics Learned
+
+Throughout this course, I gained hands-on experience with:
+
+- Building automation frameworks using Playwright
+- Writing maintainable and scalable test automation
+- UI automation
+- API testing
+- Page Object Model (POM)
+- Fixtures
+- Authentication
+- Network interception
+- Mock APIs
+- Visual testing
+- Mobile emulation
+- Parallel execution
+- Docker
+- GitHub Actions
+- Reporting
+- CI/CD integration
+- Automation best practices
+
+---
+
+# 💡 Why This Repository?
+
+This repository helps me:
+
+- Quickly revise Playwright concepts
+- Prepare for QA Automation / SDET interviews
+- Reference code while building automation frameworks
+- Understand Playwright best practices
+- Learn advanced Playwright features
+- Document my learning journey
+
+---
+
+# 👨‍💻 Who Can Use This Repository?
+
+This repository is useful for:
+
+- Beginners learning Playwright
+- QA Engineers
+- Automation Test Engineers
+- SDETs
+- Software Engineers
+- Students preparing for automation testing interviews
+- Anyone looking for structured Playwright notes
+
+---
+
+# ⭐ Disclaimer
+
+These notes are based on my personal learning from a Playwright course. They are intended for educational and revision purposes and have been organized in my own words for easier understanding.
+
+---
